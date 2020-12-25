@@ -47,7 +47,7 @@ html {
 }
 
 .card-deck {
-    padding-top: 25px;
+    padding-top: 10px;
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
@@ -67,7 +67,6 @@ html {
 
 .map-container-section {
     overflow:hidden;
-    padding-bottom:20%;
     position:relative;
     height:0;
     margin-left:auto; margin-right:auto;
